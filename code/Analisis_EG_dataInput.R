@@ -24,7 +24,7 @@ setwd(workingDir);
 library(WGCNA)
 
 # Dataset de perfiles de expresión génica
-sars_Cov2 <- read.table(file = "GEO-GSE147507.tsv", header = TRUE, sep = "\t")
+sars_Cov2 <- read.table(file = "./results/GEO-GSE147507.tsv", header = TRUE, sep = "\t")
 
 # Vistazo a los datos
 dim(sars_Cov2)
@@ -62,7 +62,7 @@ sizeGrWindow(12,9)
 
 par(cex = 0.6);
 par(mar = c(0,4,2,0))
-pdf(file = 'sampleClustering.pdf', width = 12,height = 12)
+pdf(file = './results/sampleClustering.pdf', width = 12,height = 12)
 plot(sampleTree, main = "Sample clustering to detect outliers", sub="", xlab="", cex.lab = 1.5, 
      cex.axis = 1.5, cex.main = 2)
 
@@ -81,4 +81,4 @@ nSamples = nrow(datExpr)
 # GUARDADO DE DATOS
 
 # La variable datExpr tiene los datos preparados para el análisis de red
-save(datExpr, file = "SARS_Cov2_datExpr.RData")
+save(datExpr, file = "./results/SARS_Cov2_datExpr.RData")

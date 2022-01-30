@@ -14,7 +14,7 @@ options(stringsAsFactors = FALSE);
 allowWGCNAThreads() 
 enableWGCNAThreads()
 
-lnames = load(file = "SARS_Cov2_datExpr.RData");
+lnames = load(file = "./results/SARS_Cov2_datExpr.RData");
 
 lnames
 
@@ -29,7 +29,7 @@ sizeGrWindow(9, 5)
 par(mfrow = c(1,2));
 cex1 = 0.9;
 
-pdf(file = 'independenceScale_meanConnectivity.pdf', width = 8,height = 6)
+pdf(file = './results/independenceScale_meanConnectivity.pdf', width = 8,height = 6)
 plot(sft$fitIndices[,1], -sign(sft$fitIndices[,3])*sft$fitIndices[,2],
      xlab="Soft Threshold (power)",ylab="Scale Free Topology Model Fit,signed R^2",type="n",
      main = paste("Scale independence"));
@@ -66,7 +66,7 @@ table(net$colors)
 sizeGrWindow(12, 9)
 mergedColors = labels2colors(net$colors)
 
-pdf(file = 'clusterDendrogram.pdf', width = 8,height = 6)
+pdf(file = './results/clusterDendrogram.pdf', width = 8,height = 6)
 plotDendroAndColors(net$dendrograms[[1]], mergedColors[net$blockGenes[[1]]],
                     "Module colors",
                     dendroLabels = FALSE, hang = 0.03,
