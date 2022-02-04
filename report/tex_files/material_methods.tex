@@ -1,4 +1,10 @@
 \section{Materiales y métodos}
 \subsection{Carga de datos}
-Para poder hacer uso de los datos que se anexan al artículo científico en el que está basado el proyecto, se han de descargar desde la página web del NCBI. Se obtiene un total de 21797 genes con 79 muestras cada uno con los que se empieza el análisis.
+Para poder hacer uso de los datos que se anexan al artículo científico en el que está basado el proyecto, se han de descargar desde la página web del NCBI, con un archivo llamado \textit{setup.sh}. Se obtiene un total de 21797 genes con 79 muestras cada uno con los que se empieza el análisis.
 
+\subsection{Análisis inicial}
+Se crea el archivo llamado \textit{Análisis\_EG\_dataInput.R}, el cual carga los datos y se crea la limpieza y preprocesamiento de los datos. En primer lugar se crea una configuración del entorno de R y se procesan los datos. Se hace uso de la librería de \textit{WCGNA} obtenida desde \textit{Bioconductor}. 
+
+Por otro lado se hace un reajuste de datos, se transforman para que sean las filas las correspondientes a los genes y, las columnas, a las muestras de los mismos.
+
+Como se desconoce si hay alguna falta de datos, se comprueba si hay algún dato que falta o que es nulo. 
