@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.4)  4 FEB 2022 21:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.4)  4 FEB 2022 22:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -477,21 +477,29 @@ LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
  [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-<figures/clusterDendrogram.jpg, id=54, 578.16pt x 433.62pt>
-File: figures/clusterDendrogram.jpg Graphic file (type jpg)
-<use figures/clusterDendrogram.jpg>
-Package pdftex.def Info: figures/clusterDendrogram.jpg  used on input line 17.
-(pdftex.def)             Requested size: 324.8978pt x 243.67245pt.
-)
-(./tex_files/resultados.tex [2 <./figures/clusterDendrogram.jpg>]
-<figures/sampleClustering.jpg, id=63, 867.24pt x 867.24pt>
+<figures/sampleClustering.jpg, id=54, 867.24pt x 867.24pt>
 File: figures/sampleClustering.jpg Graphic file (type jpg)
 <use figures/sampleClustering.jpg>
-Package pdftex.def Info: figures/sampleClustering.jpg  used on input line 7.
+Package pdftex.def Info: figures/sampleClustering.jpg  used on input line 17.
 (pdftex.def)             Requested size: 324.8978pt x 324.8966pt.
-)
-(./tex_files/discusion.tex
-<figures/independenceScale_meanConnectivity1.jpg, id=64, 578.16pt x 433.62pt>
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 20.
+
+) (./tex_files/resultados.tex
+<figures/clusterDendrogram.jpg, id=55, 578.16pt x 433.62pt>
+File: figures/clusterDendrogram.jpg Graphic file (type jpg)
+<use figures/clusterDendrogram.jpg>
+Package pdftex.def Info: figures/clusterDendrogram.jpg  used on input line 7.
+(pdftex.def)             Requested size: 324.8978pt x 243.67245pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 10.
+
+) (./tex_files/discusion.tex
+<figures/independenceScale_meanConnectivity1.jpg, id=56, 578.16pt x 433.62pt>
 File: figures/independenceScale_meanConnectivity1.jpg Graphic file (type jpg)
 <use figures/independenceScale_meanConnectivity1.jpg>
 Package pdftex.def Info: figures/independenceScale_meanConnectivity1.jpg  used 
@@ -517,7 +525,7 @@ you left one out. Proceed, with fingers crossed.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/independenceScale_meanConnectivity2.jpg, id=65, 578.16pt x 433.62pt>
+<figures/independenceScale_meanConnectivity2.jpg, id=57, 578.16pt x 433.62pt>
 File: figures/independenceScale_meanConnectivity2.jpg Graphic file (type jpg)
 <use figures/independenceScale_meanConnectivity2.jpg>
 Package pdftex.def Info: figures/independenceScale_meanConnectivity2.jpg  used 
@@ -543,11 +551,12 @@ you left one out. Proceed, with fingers crossed.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `!tbp') on input line 16.
 
-[3 <./figures/sampleClustering.jpg>]) (./tex_files/conclusiones.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+) (./tex_files/conclusiones.tex) [2] [3 <./figures/sampleClustering.jpg> <./fig
+ures/clusterDendrogram.jpg>]
+Underfull \vbox (badness 1895) has occurred while \output is active []
 
  [4 <./figures/independenceScale_meanConnectivity1.jpg> <./figures/independence
-Scale_meanConnectivity2.jpg>]) (./report.bbl) 
+Scale_meanConnectivity2.jpg>] (./report.bbl) 
 AED: lastpage setting LastPage
 [5] (./report.aux)
 
@@ -563,7 +572,7 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 Here is how much of TeX's memory you used:
  9561 strings out of 478994
  138358 string characters out of 5858185
- 452518 words of memory out of 5000000
+ 454518 words of memory out of 5000000
  26882 multiletter control sequences out of 15000+600000
  412086 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -581,7 +590,7 @@ texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local
 texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
 exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
 xlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb>
-Output written on report.pdf (5 pages, 1321929 bytes).
+Output written on report.pdf (5 pages, 1321534 bytes).
 PDF statistics:
  142 PDF objects out of 1000 (max. 8388607)
  117 compressed objects within 2 object streams

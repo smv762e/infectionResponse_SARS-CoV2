@@ -3,10 +3,10 @@
 
 Una vez instalados todos los paquetes y librerías necesarias, debemos empezar con la limpiza de datos y su preprocesamiento, por lo que cargamos el dataset de perfiles de expresión génica. Transformamos los datos para poder trabajar con filas y columnas, descubriendo así si hay genes con valores perdidos. Si la última comprobación devuelve \textit{TRUE}, no necesitaremos ejecutar el siguiente código. De lo contrario, se eliminan los genes, mostrándose prescindibles. Agrupamos las muestras para ver si hay valores atípicos y una vez detectados, los eliminamos eligiendo un corte de altura. 
 
-\begin{figure}[h]
-	\fbox{\includegraphics[width=0.9\textwidth]{figures/sampleClustering.jpg}}
-	\caption{Sample Clustering}
-	\label{fig:sample_clustering}
+\begin{figure}[!]
+	\fbox{\includegraphics[width=0.9\textwidth]{figures/clusterDendrogram.jpg}}
+	\caption{Cluster Dendrogram}
+	\label{fig:clusterDendrogram}
 \end{figure}
 
 Para el análisis de la topología de la red, lo primero que hemos hecho a nivel de implementación es la selección de umbrales. Posteriormente, transformamos el tipo de valores para todas las columnas, preocupándonos de que una función no detecta los valores si no son tipo \textit{NUMERIC}. Tras construir la red de genes y la identificaicón de los módulos, guardamos la información de la construcción de red.
