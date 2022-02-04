@@ -1,226 +1,226 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.12.21)  4 FEB 2022 17:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.4)  4 FEB 2022 18:15
 entering extended mode
-**./report.tex
-(report.tex
-LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-10-18> (bmcart.cls
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (./bmcart.cls
 Document Class: bmcart 2017/07/31BioMed Central class (VS)
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count182
-\c@section=\count183
-\c@subsection=\count184
-\c@subsubsection=\count185
-\c@paragraph=\count186
-\c@subparagraph=\count187
-\c@figure=\count188
-\c@table=\count189
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
 \mathindent=\dimen139
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks15
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 )
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
-Package xcolor Info: Model `RGB' extended on input line 1368.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
-Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-\c@thanks=\count190
-\bmcfloat@box=\box50
-\c@author=\count191
-\c@address=\count192
+\c@thanks=\count187
+\bmcfloat@box=\box47
+\c@author=\count188
+\c@address=\count189
 \sv@mathsurround=\dimen140
-\fm@box=\box51
-\c@addressref=\count193
-\thanks@box=\box52
-\abstract@box=\box53
-\authors@list=\toks17
-\keywords@list=\toks18
-) (C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+\fm@box=\box48
+\c@addressref=\count190
+\thanks@box=\box49
+\abstract@box=\box50
+\authors@list=\toks16
+\keywords@list=\toks17
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks19
-\thm@bodyfont=\toks20
-\thm@headfont=\toks21
-\thm@notefont=\toks22
-\thm@headpunct=\toks23
+\thm@style=\toks18
+\thm@bodyfont=\toks19
+\thm@headfont=\toks20
+\thm@notefont=\toks21
+\thm@headpunct=\toks22
 \thm@preskip=\skip49
 \thm@postskip=\skip50
 \thm@headsep=\skip51
-\dth@everypar=\toks24
+\dth@everypar=\toks23
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2021/04/20 v2.17j AMS math features
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks25
+\@emptytoks=\toks24
 \ex@=\dimen141
 ))
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen142
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count194
+\inf@bad=\count191
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count195
-\leftroot@=\count196
+\uproot@=\count192
+\leftroot@=\count193
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count197
-\DOTSCASE@=\count198
+\classnum@=\count194
+\DOTSCASE@=\count195
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box54
-\strutbox@=\box55
+\Mathstrutbox@=\box51
+\strutbox@=\box52
 \big@size=\dimen143
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count199
-\c@MaxMatrixCols=\count266
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
 \dotsspace@=\muskip16
-\c@parentequation=\count267
-\dspbrk@lvl=\count268
-\tag@help=\toks26
-\row@=\count269
-\column@=\count270
-\maxfields@=\count271
-\andhelp@=\toks27
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
+\tag@help=\toks25
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
+\andhelp@=\toks26
 \eqnshift@=\dimen144
 \alignsep@=\dimen145
 \tagshift@=\dimen146
 \tagwidth@=\dimen147
 \totwidth@=\dimen148
 \lineht@=\dimen149
-\@envbody=\toks28
+\@envbody=\toks27
 \multlinegap=\skip53
 \multlinetaggap=\skip54
-\mathdisplay@stack=\toks29
+\mathdisplay@stack=\toks28
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 )
 \Gin@req@height=\dimen150
 \Gin@req@width=\dimen151
-) (C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks30
-\inpenc@posthook=\toks31
-) (C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks29
+\inpenc@posthook=\toks30
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
-ty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
-ty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
-.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen152
-\Hy@linkcounter=\count272
-\Hy@pagecounter=\count273
- (C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+\Hy@linkcounter=\count269
+\Hy@pagecounter=\count270
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
-atches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
 nguages
-)
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count274
- (C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count271
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -236,61 +236,60 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count275
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\c@Hy@tempcnt=\count272
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen153
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
-.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count276
+\Fld@menulength=\count273
 \Field@Width=\dimen154
 \Fld@charsize=\dimen155
-Package hyperref Info: Hyper figures OFF on input line 6076.
-Package hyperref Info: Link nesting OFF on input line 6081.
-Package hyperref Info: Hyper index ON on input line 6084.
-Package hyperref Info: backreferencing OFF on input line 6091.
-Package hyperref Info: Link coloring ON on input line 6094.
-Package hyperref Info: Link coloring with OCG OFF on input line 6101.
-Package hyperref Info: PDF/A mode OFF on input line 6106.
-LaTeX Info: Redefining \ref on input line 6146.
-LaTeX Info: Redefining \pageref on input line 6150.
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring ON on input line 6093.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
-Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
-package with kernel methods
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
 )
-\Hy@abspage=\count277
-\c@Item=\count278
-\c@Hfootnote=\count279
+\Hy@abspage=\count274
+\c@Item=\count275
+\c@Hfootnote=\count276
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count280
-\c@bookmark@seq@number=\count281
+\Fld@listcount=\count277
+\c@bookmark@seq@number=\count278
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
-echeck.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
-ounter.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -298,12 +297,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip55
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
-File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count282
-\l__pdf_internal_box=\box56
-) (report.aux)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count279
+\l__pdf_internal_box=\box53
+)
+(./report.aux)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -325,30 +324,27 @@ LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count283
+\scratchcounter=\count280
 \scratchdimen=\dimen156
-\scratchbox=\box57
-\nofMPsegments=\count284
-\nofMParguments=\count285
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count286
+\scratchbox=\box54
+\nofMPsegments=\count281
+\nofMParguments=\count282
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count283
 \MPscratchDim=\dimen157
-\MPnumerator=\count287
-\makeMPintoPDFobject=\count288
-\everyMPtoPDFconversion=\toks33
-)
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
+\everyMPtoPDFconversion=\toks32
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
-fg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
@@ -408,42 +404,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 26.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\typeout' on input line 26.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 26.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 26.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 26.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\immediate' on input line 26.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\write' on input line 26.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\m@ne' on input line 26.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\endgroup' on input line 26.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\endgroup' on input line 26.
 
 
@@ -463,22 +423,22 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\spacefactor' on input line 26.
 
 Package hyperref Info: Link coloring ON on input line 26.
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\carme\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
-lestring.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count289
+\c@section@level=\count286
 )
 LaTeX Info: Redefining \ref on input line 26.
 LaTeX Info: Redefining \pageref on input line 26.
 LaTeX Info: Redefining \nameref on input line 26.
- (report.out) (report.out)
+ (./report.out) (./report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
 
@@ -504,7 +464,7 @@ LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
 (Font)              size <5> substituted on input line 48.
 
-\address@aff1=\toks34
+\address@aff1=\toks33
 
 LaTeX Warning: Citation `koon' on page 1 undefined on input line 147.
 
@@ -523,7 +483,7 @@ LaTeX Warning: Citation `koha' on page 1 undefined on input line 147.
 
 LaTeX Warning: Citation `issnic' on page 1 undefined on input line 147.
 
-<figures/Sequencing_Cost_per_Genome_May2020.jpg, id=40, 963.6pt x 542.32613pt>
+<figures/Sequencing_Cost_per_Genome_May2020.jpg, id=41, 963.6pt x 542.32613pt>
 File: figures/Sequencing_Cost_per_Genome_May2020.jpg Graphic file (type jpg)
 <use figures/Sequencing_Cost_per_Genome_May2020.jpg>
 Package pdftex.def Info: figures/Sequencing_Cost_per_Genome_May2020.jpg  used o
@@ -532,7 +492,7 @@ n input line 158.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/Sequencing_Cost_per_Megabase_May2020.jpg, id=41, 963.6pt x 542.32613pt
+<figures/Sequencing_Cost_per_Megabase_May2020.jpg, id=42, 963.6pt x 542.32613pt
 >
 File: figures/Sequencing_Cost_per_Megabase_May2020.jpg Graphic file (type jpg)
 <use figures/Sequencing_Cost_per_Megabase_May2020.jpg>
@@ -545,19 +505,16 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 201.
 
-[1{C:/Users/carme/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+[1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-(tex_files/introduction.tex [2 <./figures/Sequencing_Cost_per_Genome_May2020.jp
-g> <./figures/Sequencing_Cost_per_Megabase_May2020.jpg>]
-
-LaTeX Warning: Citation `BlancoMelo2020' on page 3 undefined on input line 6.
-
-) (tex_files/material_methods.tex) (tex_files/resultados.tex)
-(tex_files/discusion.tex) (tex_files/conclusiones.tex) [3] (report.bbl)
+(./tex_files/introduction.tex [2 <./figures/Sequencing_Cost_per_Genome_May2020.
+jpg> <./figures/Sequencing_Cost_per_Megabase_May2020.jpg>])
+(./tex_files/material_methods.tex) (./tex_files/resultados.tex)
+(./tex_files/discusion.tex) (./tex_files/conclusiones.tex) [3] (./report.bbl)
 
 AED: lastpage setting LastPage
-[4] (report.aux)
+[4] (./report.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -569,34 +526,34 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 7435DA759C004EBF168EC4059B8E7121;905.
  ) 
 Here is how much of TeX's memory you used:
- 9639 strings out of 478907
- 144223 string characters out of 2851891
- 471024 words of memory out of 3000000
- 27352 multiletter control sequences out of 15000+600000
+ 9558 strings out of 478994
+ 138094 string characters out of 5858185
+ 455595 words of memory out of 5000000
+ 26876 multiletter control sequences out of 15000+600000
  412394 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,13n,66p,1118b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\carme\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-0700.pk><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmex10.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmmi10.pfb><C:/Users/carme/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/carme/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/carme/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/carme/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/carm
-e/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/U
-sers/carme/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.
-pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmss8.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmssbx10.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmssi8.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/carme/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/carme/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on report.pdf (4 pages, 1167607 bytes).
+ 71i,13n,74p,1113b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
+r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/loc
+al/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/te
+xlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texl
+ive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/tex
+live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texl
+ive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive
+/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
+2021/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb>
+Output written on report.pdf (4 pages, 1148223 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
+ 159 PDF objects out of 1000 (max. 8388607)
+ 133 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
  75 words of extra memory for PDF output out of 10000 (max. 10000000)
 
