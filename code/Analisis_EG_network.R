@@ -78,3 +78,7 @@ moduleLabels = net$colors
 moduleColors = labels2colors(net$colors)
 MEs = net$MEs;
 geneTree = net$dendrograms[[1]]
+
+# Guardado de información de la construcción de la red
+
+save(MEs, moduleLabels, moduleColors, geneTree, file = "SARS_Cov2_networkConstruction.RData")
