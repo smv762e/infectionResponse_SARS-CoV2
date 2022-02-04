@@ -1,12 +1,5 @@
 # WGCNA
 
-# INSTALACIÓN DE WGCNA
-
-# Automatico
-
-#install.packages("BiocManager")
-BiocManager::install("WGCNA")
-
 # Manual (R version 3.0.0 and higher)
 
 # install.packages(c("matrixStats", "Hmisc", "splines", "foreach", "doParallel", "fastcluster", "dynamicTreeCut", "survival", "BiocManager"))

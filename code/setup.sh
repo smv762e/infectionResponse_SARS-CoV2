@@ -9,3 +9,6 @@ wget $DATASET_URL -O ./results/GEO-GSE147507.tsv.gz
 
 # Unzip downloaded dataset
 gzip -df './results/GEO-GSE147507.tsv.gz'
+
+# Install R dependencies
+Rscript ./code/install_dependencies.R
