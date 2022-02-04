@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.12.21)  4 FEB 2022 11:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.12.21)  4 FEB 2022 11:57
 entering extended mode
 **./report.tex
 (report.tex
@@ -264,6 +264,24 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
 (Font)              size <5> substituted on input line 47.
 
 \address@aff1=\toks34
+
+LaTeX Warning: Citation `koon' on page 1 undefined on input line 146.
+
+
+LaTeX Warning: Citation `xjon' on page 1 undefined on input line 146.
+
+
+LaTeX Warning: Citation `marg' on page 1 undefined on input line 146.
+
+
+LaTeX Warning: Citation `schn' on page 1 undefined on input line 146.
+
+
+LaTeX Warning: Citation `koha' on page 1 undefined on input line 146.
+
+
+LaTeX Warning: Citation `issnic' on page 1 undefined on input line 146.
+
 <figures/Sequencing_Cost_per_Genome_May2020.jpg, id=1, 963.6pt x 542.32613pt>
 File: figures/Sequencing_Cost_per_Genome_May2020.jpg Graphic file (type jpg)
 <use figures/Sequencing_Cost_per_Genome_May2020.jpg>
@@ -290,8 +308,11 @@ LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
 
 ]
 (tex_files/introduction.tex [2 <./figures/Sequencing_Cost_per_Genome_May2020.jp
-g> <./figures/Sequencing_Cost_per_Megabase_May2020.jpg>])
-(tex_files/material_methods.tex) (tex_files/resultados.tex)
+g> <./figures/Sequencing_Cost_per_Megabase_May2020.jpg>]
+
+LaTeX Warning: Citation `BlancoMelo2020' on page 3 undefined on input line 6.
+
+) (tex_files/material_methods.tex) (tex_files/resultados.tex)
 (tex_files/discusion.tex) (tex_files/conclusiones.tex) (report.bbl)
 
 AED: lastpage setting LastPage
@@ -300,34 +321,38 @@ AED: lastpage setting LastPage
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 3640 strings out of 478907
- 54709 string characters out of 2851891
- 366977 words of memory out of 3000000
- 21459 multiletter control sequences out of 15000+600000
- 411747 words of font info for 56 fonts, out of 8000000 for 9000
+ 3594 strings out of 478907
+ 54345 string characters out of 2851891
+ 366959 words of memory out of 3000000
+ 21412 multiletter control sequences out of 15000+600000
+ 412055 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,13n,70p,1118b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmex10.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmmi10.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmmi7.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/carme/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/carme/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/carme/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/carme/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/c
-arme/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:
-/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssb
-x10.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmssi8.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmsy7.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on report.pdf (3 pages, 1145641 bytes).
+cmbx10.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/carme/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/carme/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/carme/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/carme/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/c
+arme/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C
+:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss
+8.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmssbx10.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmssi8.pfb><C:/Users/carme/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb><C:/Users/carme/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/carme/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on report.pdf (3 pages, 1152413 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
+ 89 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
